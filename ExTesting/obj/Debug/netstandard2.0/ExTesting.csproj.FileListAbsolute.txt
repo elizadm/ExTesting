@@ -1,0 +1,9 @@
+D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.csprojAssemblyReference.cache
+D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.csproj.CoreCompileInputs.cache
+D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.AssemblyInfoInputs.cache
+D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.AssemblyInfo.cs
+D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\bin\Debug\netstandard2.0\ExTesting.deps.json
+D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\bin\Debug\netstandard2.0\ExTesting.dll
+D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\bin\Debug\netstandard2.0\ExTesting.pdb
+D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.dll
+D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.pdb
