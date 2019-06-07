@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ieliz\\.nuget\\packages\\": {},
+    "C:\\Users\\setup\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studies\\STEP\\Специализация\\HW\\Exam Testing\\ExTesting\\ExTesting\\ExTesting.csproj",
+      "projectUniqueName": "C:\\GIT\\ExTesting\\ExTesting\\ExTesting.csproj",
       "projectName": "ExTesting",
-      "projectPath": "D:\\Studies\\STEP\\Специализация\\HW\\Exam Testing\\ExTesting\\ExTesting\\ExTesting.csproj",
-      "packagesPath": "C:\\Users\\ieliz\\.nuget\\packages\\",
-      "outputPath": "D:\\Studies\\STEP\\Специализация\\HW\\Exam Testing\\ExTesting\\ExTesting\\obj\\",
+      "projectPath": "C:\\GIT\\ExTesting\\ExTesting\\ExTesting.csproj",
+      "packagesPath": "C:\\Users\\setup\\.nuget\\packages\\",
+      "outputPath": "C:\\GIT\\ExTesting\\ExTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ieliz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\setup\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

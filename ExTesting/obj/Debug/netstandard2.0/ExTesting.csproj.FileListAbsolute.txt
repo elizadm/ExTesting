@@ -7,3 +7,12 @@ D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\b
 D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\bin\Debug\netstandard2.0\ExTesting.pdb
 D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.dll
 D:\Studies\STEP\Специализация\HW\Exam Testing\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.pdb
+C:\GIT\ExTesting\ExTesting\bin\Debug\netstandard2.0\ExTesting.deps.json
+C:\GIT\ExTesting\ExTesting\bin\Debug\netstandard2.0\ExTesting.dll
+C:\GIT\ExTesting\ExTesting\bin\Debug\netstandard2.0\ExTesting.pdb
+C:\GIT\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.csprojAssemblyReference.cache
+C:\GIT\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.csproj.CoreCompileInputs.cache
+C:\GIT\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.AssemblyInfoInputs.cache
+C:\GIT\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.AssemblyInfo.cs
+C:\GIT\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.dll
+C:\GIT\ExTesting\ExTesting\obj\Debug\netstandard2.0\ExTesting.pdb
